@@ -41,7 +41,7 @@ label {
     color: #444;
 }
 
-input[type="number"] {
+input[type="text"] {
     width: 100%;
     padding: 12px;
     border: 1px solid #ddd;
@@ -50,7 +50,7 @@ input[type="number"] {
     transition: border-color 0.3s;
 }
 
-input[type="number"]:focus {
+input[type="text"]:focus {
     border-color: #4a90e2;
     outline: none;
 }
@@ -88,7 +88,7 @@ button:hover {
 }
 
 .result-label {
-    font-weight: 600;
+    font-weight: 600;s
     color: #444;
     margin-bottom: 5px;
 }
